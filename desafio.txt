@@ -1,0 +1,16 @@
+voce trabalha em uma grande empresa de cartão de credito e o diretor da empresa percebeu que o numero de clientes que cancelam seus cartões tem aumentado significativamente , causando prejuizos enormes para empresa oque fazer pra evitar isso ? como saber que as pessoas tem maior tendencia a cancelar o cartão?
+
+
+temos 1 base de dados com informações dos clientes, tanto clientes atuais quanto clientes que cancelaram o cartão download da base de dados
+
+passos :
+-importar a base de dados 
+-visualizar essa base de dados 
+-analisar sua base de dados 
+-construir uma analise e indentificar o motivo de cancelamento 
+
+
+conclusão 
+parece que enquanto mais produtos contratados um cliente tem , menor a chance dele cancelar 
+e enquanto mais transações e quato maior o valor de transação , menor a chance dele cancelar 
+quanto maior a quantidade de contatos que a pessoa teve que fazer , maior a chance dela cancelar
